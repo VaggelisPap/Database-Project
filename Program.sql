@@ -14,14 +14,14 @@ INSERT INTO `Program` (`name`,`sector`) VALUES ('Water Waste Reduction Program',
 INSERT INTO `Program` (`name`,`sector`) VALUES ('Earthquake Research Program','Enviromental Sector');
 INSERT INTO `Program` (`name`,`sector`) VALUES ('Artificial Inteligence Development Program','IT Sector');
 INSERT INTO `Program` (`name`,`sector`) VALUES ('Solar Energy Ifrastructure Program','Environmental Sector');
-INSERT INTO `Program` (`name`,`sector`) VALUES ('Mathematics Department Equipment Update Program  Program','Mathemetics Sector');
+INSERT INTO `Program` (`name`,`sector`) VALUES ('Mathematics Department Update Program','Mathemetics Sector');
 INSERT INTO `Program` (`name`,`sector`) VALUES ('Biological Crop Facilities Program','Enviromental Sector');
 INSERT INTO `Program` (`name`,`sector`) VALUES ('Advanced Technologies Program','Technologies Sector');
 INSERT INTO `Program` (`name`,`sector`) VALUES ('Software Development Program','IT Sector');
 INSERT INTO `Program` (`name`,`sector`) VALUES ('Recycling Materials Program','Environmental Sector');
 INSERT INTO `Program` (`name`,`sector`) VALUES ('Microbiologies Technologies Program','Biology Sector');
 INSERT INTO `Program` (`name`,`sector`) VALUES ('National Parks Renovation Program','Enviromental Sector');
-INSERT INTO `Program` (`name`,`sector`) VALUES ('Computer Science Applications on Modern Arcitecture Program','IT Sector');
+INSERT INTO `Program` (`name`,`sector`) VALUES ('Computer Applications on Arcitecture Program','IT Sector');
 INSERT INTO `Program` (`name`,`sector`) VALUES ('Neural Networks Program','Technologies Sector');
 INSERT INTO `Program` (`name`,`sector`) VALUES ('Robotic Facilities Program','Technologies Sector');
 INSERT INTO `Program` (`name`,`sector`) VALUES ('Modern Antennas Program','Technologies Sector');
@@ -29,7 +29,7 @@ INSERT INTO `Program` (`name`,`sector`) VALUES ('National Forests Preservation P
 INSERT INTO `Program` (`name`,`sector`) VALUES ('Advanced Database Systems Development Program','IT Sector');
 INSERT INTO `Program` (`name`,`sector`) VALUES ('Applied Robotics Technologies Program','Technologies Sector');
 INSERT INTO `Program` (`name`,`sector`) VALUES ('Viruses and Pandemics Program','Biology Sector');
-INSERT INTO `Program` (`name`,`sector`) VALUES ('New Enhanced Performance Technologies Program','Technologies Sector');
+INSERT INTO `Program` (`name`,`sector`) VALUES ('Enhanced Performance Technologies Program','Technologies Sector');
 INSERT INTO `Program` (`name`,`sector`) VALUES ('Software for Smart Cars Program','IT Sector');
 INSERT INTO `Program` (`name`,`sector`) VALUES ('Smart Cities Program','Environmental Sector');
 INSERT INTO `Program` (`name`,`sector`) VALUES ('Applied Mathemetics Program','Mathemetics Sector');
