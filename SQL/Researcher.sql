@@ -26,7 +26,7 @@ INSERT INTO Researcher (`first_name`,`last_name`,`date_of_birth`,`sex`, `Organiz
 INSERT INTO Researcher (`first_name`,`last_name`,`date_of_birth`,`sex`, `Organization_id`, `work_date`) VALUES ('Hipolito','Romaker','1985-09-29','Female', 25, '2019-03-04');
 INSERT INTO Researcher (`first_name`,`last_name`,`date_of_birth`,`sex`, `Organization_id`, `work_date`) VALUES ('Raymundo','Zaborny','1998-05-09','Female', 26, '2019-03-04');
 INSERT INTO Researcher (`first_name`,`last_name`,`date_of_birth`,`sex`, `Organization_id`, `work_date`) VALUES ('Elmo','Decrosta','1953-08-13','Male', 15, '2019-03-04');
-INSERT INTO Researcher (`first_name`,`last_name`,`date_of_birth`,`sex`, `Organization_id`, `work_date`) VALUES ('Giuseppe','Bart1959-12-26','Female', 27, '2019-03-04');
+INSERT INTO Researcher (`first_name`,`last_name`,`date_of_birth`,`sex`, `Organization_id`, `work_date`) VALUES ('Giuseppe','Bart', '1959-12-26','Female', 27, '2019-03-04');
 INSERT INTO Researcher (`first_name`,`last_name`,`date_of_birth`,`sex`, `Organization_id`, `work_date`) VALUES ('Stanford','Nihan','1959-09-04','Male', 5);
 INSERT INTO Researcher (`first_name`,`last_name`,`date_of_birth`,`sex`, `Organization_id`, `work_date`) VALUES ('Zachary','Arendes','1953-05-28','Male', 16, '1981-09-19');
 INSERT INTO Researcher (`first_name`,`last_name`,`date_of_birth`,`sex`, `Organization_id`, `work_date`) VALUES ('Philip','Cataloni','1988-04-24','Male', 14, '2021-03-04');
@@ -83,7 +83,7 @@ INSERT INTO Researcher (`first_name`,`last_name`,`date_of_birth`,`sex`, `Organiz
 INSERT INTO Researcher (`first_name`,`last_name`,`date_of_birth`,`sex`, `Organization_id`, `work_date`) VALUES ('Tracy','Kepler','1990-07-04','Female',9, '2019-03-04');
 INSERT INTO Researcher (`first_name`,`last_name`,`date_of_birth`,`sex`, `Organization_id`, `work_date`) VALUES ('Eli','Dains','1977-12-08','Male', 1, '2017-03-04');
 INSERT INTO Researcher (`first_name`,`last_name`,`date_of_birth`,`sex`, `Organization_id`, `work_date`) VALUES ('Francis','Pevarnik','1998-09-17','Male', 5, '2019-03-04');
-INSERT INTO Researcher (`first_name`,`last_name`,`date_of_birth`,`sex`, `Organization_id`, `work_date`) VALUES ('Shannon','Trust1959-04-17','Female',6, '2019-03-04');
+INSERT INTO Researcher (`first_name`,`last_name`,`date_of_birth`,`sex`, `Organization_id`, `work_date`) VALUES ('Shannon','Trust','1959-04-17','Female',6, '2019-03-04');
 INSERT INTO Researcher (`first_name`,`last_name`,`date_of_birth`,`sex`, `Organization_id`, `work_date`) VALUES ('Abel','Prendergast','1998-01-09','Male', 13, '2019-03-04');
 INSERT INTO Researcher (`first_name`,`last_name`,`date_of_birth`,`sex`, `Organization_id`, `work_date`) VALUES ('Thurman','Cuddeback','1988-04-16','Female', 27, '2019-03-04');
 INSERT INTO Researcher (`first_name`,`last_name`,`date_of_birth`,`sex`, `Organization_id`, `work_date`) VALUES ('Todd','Baesa','1988-09-29','Female', 28, '2011-03-05');
