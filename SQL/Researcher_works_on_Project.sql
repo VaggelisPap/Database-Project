@@ -1,0 +1,16 @@
+insert into Researcher_works_on_Projects select Researcher.Researcher_id, Projects.Project_id from(Researcher join Projects on Projects.Organization_id = Researcher.Organization_id);
+DELETE FROM Researcher_works_on_Projects LIMIT 4000;
+insert into Researcher_works_on_Projects (Researcher_id, Project_id) values (1,301);
+insert into Researcher_works_on_Projects (Researcher_id, Project_id) values ( 4,302);
+insert into Researcher_works_on_Projects (Researcher_id, Project_id) values ( 121,303);
+insert into Researcher_works_on_Projects (Researcher_id, Project_id) values ( 132,304);
+insert into Researcher_works_on_Projects (Researcher_id, Project_id) values ( 144,305);
+insert into Researcher_works_on_Projects (Researcher_id, Project_id) values ( 151,306);
+insert into Researcher_works_on_Projects (Researcher_id, Project_id) values ( 172,307);
+insert into Researcher_works_on_Projects (Researcher_id, Project_id) values ( 173,308);
+insert into Researcher_works_on_Projects (Researcher_id, Project_id) values ( 217,309);
+insert into Researcher_works_on_Projects (Researcher_id, Project_id) values ( 302,310);
+insert into Researcher_works_on_Projects (Researcher_id, Project_id) values ( 326,311);
+insert into Researcher_works_on_Projects (Researcher_id, Project_id) values ( 335,312);
+insert into Researcher_works_on_Projects (Researcher_id, Project_id) values ( 340,313);
+insert into Researcher_works_on_Projects (Researcher_id, Project_id) values ( 348,314);

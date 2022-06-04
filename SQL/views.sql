@@ -1,0 +1,2 @@
+create view ResProj as (select Researcher.Researcher_id,Researcher.first_name, Researcher.last_name ,Projects.Project_id, Projects.Title from (Researcher join Researcher_works_on_Projects on Researcher.Researcher_id = Researcher_works_on_Projects.Researcher_id) join Projects on Projects.Project_id = Researcher_works_on_Projects.Project_id);
+create view OrgProj as (select  Organization.name,Organization.sort_name,Organization.Type, Projects.Title from (Organization join Projects on Organization.Organization_id = Projects.Organization_id));
